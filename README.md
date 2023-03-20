@@ -1,10 +1,10 @@
 # Growth Mindset
 
-## Introduction
+### Introduction
 
 Hello, my name is Noah. I am learning website development and coding, here are some things that help me to stay focus and learn:
 
-### How to build & maintain a growth mindset
+#### How to build & maintain a growth mindset
 
 Here are some things you can do to help grow a positive mindset:
 
