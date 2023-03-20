@@ -1,6 +1,6 @@
 # Growth Mindset
 
-### Introduction
+## Introduction
 
 Hello, my name is Noah. I am learning website development and coding, here are some things that help me to stay focus and learn:
 
