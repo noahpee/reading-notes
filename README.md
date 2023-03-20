@@ -11,7 +11,7 @@ Here are some things you can do to help grow a positive mindset:
 - Make sure you are well rested. 
 - Maintin a healthy diet as well as regular exercise.
 
-Here is what Chat GPT thinks about the importance of a growth mindset:
+*Here is what Chat GPT thinks about the importance of a growth mindset:*
 
 > A growth mindset is an essential quality that can help individuals achieve their full potential. It is the belief that intelligence, talents, and abilities can be developed through dedication and hard work, rather than being fixed traits that cannot be changed. When individuals have a growth mindset, they are more likely to embrace challenges, persist in the face of obstacles, and learn from failure. This mindset fosters a love of learning, a willingness to take risks, and a desire to constantly improve oneself. Ultimately, a growth mindset can lead to personal growth, increased resilience, and greater success in all areas of life.
 
