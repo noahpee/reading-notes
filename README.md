@@ -6,11 +6,11 @@ Hello, my name is Noah. I am learning website development and coding, here are s
 
 #### How to build & maintain a growth mindset
 
-Here are some things you can do to help grow a positive mindset:
+Some of the things you can do to help grow a positive mindset:
 
 - Make sure you are well rested. 
 - Maintain a healthy diet as well as regular exercise.
-- 
+- Take a break every few hours.
 
 *Here is what Chat GPT thinks about the importance of a growth mindset:*
 
