@@ -19,3 +19,4 @@ Some of the things you can do to help grow a positive mindset:
 This page has helped to learn about Markdown. [This is accessable on my GitHub page.](https://github.com/noahpee)
 
 ![Here is a picture of Noah](https://www.elc.co.uk/medias/540451-540451-10-.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMjczMzh8aW1hZ2UvanBlZ3xpbWFnZXMvaGE2L2g5Ny8xMTM2ODQ4NzI4ODg2Mi5qcGd8OTZiZGFjZmNiNzkwOTA2YWY2MWJlY2UwMWZkNjNiNjU2ZTI2MGFmMzk5MTIzNjFlNTZhZjIxZDA5YTU4M2FiYg)
+
