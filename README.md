@@ -14,10 +14,10 @@ Here are the files that contain the lessons we have covered:
 - [class 02](https://noahpee.github.io/reading-notes/code-102/102-class-02) - Git & Github
 
 
-- [class 03](https://noahpee.github.io/reading-notes/code-102/102-class-03)
+- [class 03](https://noahpee.github.io/reading-notes/code-102/102-class-03) - Git & Github
 
 
-- [class 04](https://noahpee.github.io/reading-notes/code-102/102-class-04)
+- [class 04](https://noahpee.github.io/reading-notes/code-102/102-class-04) - Wireframes
 
 
 - [class 05](https://noahpee.github.io/reading-notes/code-102/102-class-05)
