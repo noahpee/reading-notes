@@ -6,7 +6,7 @@ Hello, my name is Noah. I am learning website development and coding.
 
 Here are the files that contain the lessons we have covered:
 
-## coding 102
+## coding 102 reading notes
 
 - class 01
 
@@ -30,3 +30,52 @@ Here are the files that contain the lessons we have covered:
 
 
 - class 08
+
+
+
+
+## coding 201 reading notes
+
+- class 01
+
+
+- class 02
+
+
+- class 03
+
+
+- class 04
+
+
+- class 05
+
+
+- class 06
+
+
+- class 07
+
+
+- class 08
+
+
+- class 09
+
+
+- class 10
+
+
+- class 11
+
+
+- class 12
+
+
+- class 13
+
+
+- class 14
+
+
+- class 15
