@@ -8,10 +8,10 @@ Here are the files that contain the lessons we have covered:
 
 ## coding 102 reading notes
 
-- [class 01](https://noahpee.github.io/reading-notes/code-102/102-class-01)
+- [class 01](https://noahpee.github.io/reading-notes/code-102/102-class-01) - Growth Mindset
 
 
-- [class 02](https://noahpee.github.io/reading-notes/code-102/102-class-02)
+- [class 02](https://noahpee.github.io/reading-notes/code-102/102-class-02) - Git & Github
 
 
 - [class 03](https://noahpee.github.io/reading-notes/code-102/102-class-03)
