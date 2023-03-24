@@ -23,7 +23,7 @@ Here are the files that contain the lessons we have covered:
 - [class 05](https://noahpee.github.io/reading-notes/code-102/102-class-05) - Basic CSS
 
 
-- [class 06](https://noahpee.github.io/reading-notes/code-102/102-class-06)
+- [class 06](https://noahpee.github.io/reading-notes/code-102/102-class-06) - Javascript Intro
 
 
 - [class 07](https://noahpee.github.io/reading-notes/code-102/102-class-07)
